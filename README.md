@@ -11,8 +11,8 @@ The pipeline works in two stages:
 ## Results and Performance
 ### YOLOv8 Detection Performance
 - The accuracy curve indicates that the model successfully learned during the training process.
-<img src="https://github.com/user-attachments/assets/4322fd92-bc49-4f03-9098-7e8f50b901c3" width="300">
-- I used YOLOv8 Nano, which showed good confidence in detecting license plates from images.
+<img src="https://github.com/user-attachments/assets/4322fd92-bc49-4f03-9098-7e8f50b901c3" width="400">\
+- I used YOLOv8 Nano, which showed good confidence in detecting license plates from images.\
 ![image](https://github.com/user-attachments/assets/a883289f-ee6d-4ec4-a02f-5cc548f3733d)
 
 ### OCR Text Detection Performance
